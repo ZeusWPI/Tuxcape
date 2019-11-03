@@ -1,0 +1,89 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Bak.tscn" type="PackedScene" id=1]
+[ext_resource path="res://bottle_mate.tscn" type="PackedScene" id=2]
+
+[sub_resource type="BoxShape" id=1]
+extents = Vector3( 25, 1, 25 )
+
+[sub_resource type="CubeMesh" id=2]
+size = Vector3( 50, 2, 50 )
+
+[node name="Spatial" type="Spatial"]
+
+[node name="Floor" type="StaticBody" parent="."]
+editor/display_folded = true
+visible = false
+
+[node name="CollisionShape" type="CollisionShape" parent="Floor"]
+shape = SubResource( 1 )
+
+[node name="MeshInstance" type="MeshInstance" parent="Floor"]
+mesh = SubResource( 2 )
+material/0 = null
+
+[node name="Bak" parent="." instance=ExtResource( 1 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.653, 0 )
+
+[node name="Camera" type="Camera" parent="."]
+transform = Transform( 1, 0, 0, 0, 0.861546, 0.50768, 0, -0.50768, 0.861546, 0, 20.6811, 16.9536 )
+
+[node name="BottleMate" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.731593, 8.7031, 0 )
+
+[node name="BottleMate2" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.731593, 8.7031, -1.50076 )
+
+[node name="BottleMate3" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.731593, 8.7031, -3.04472 )
+
+[node name="BottleMate4" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.630477, 8.7031, -3.04472 )
+
+[node name="BottleMate5" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1.99524, 8.7031, -3.04472 )
+
+[node name="BottleMate6" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1.99524, 8.7031, -1.64465 )
+
+[node name="BottleMate7" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.613714, 8.7031, -1.64465 )
+
+[node name="BottleMate8" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.613714, 8.7031, -0.143422 )
+
+[node name="BottleMate9" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 2.14427, 8.7031, -0.143422 )
+
+[node name="BottleMate10" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 2.2517, 8.7031, 1.53087 )
+
+[node name="BottleMate11" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.935668, 8.7031, 1.53087 )
+
+[node name="BottleMate12" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.674329, 8.7031, 1.53087 )
+
+[node name="BottleMate13" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 2.23258, 8.7031, 2.92907 )
+
+[node name="BottleMate14" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.881896, 8.7031, 2.92907 )
+
+[node name="BottleMate15" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.60767, 8.7031, 2.92907 )
+
+[node name="BottleMate17" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -2.16691, 8.7031, 3.10861 )
+
+[node name="BottleMate16" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -2.16691, 8.7031, 1.73839 )
+
+[node name="BottleMate18" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -2.16691, 8.7031, 0.284098 )
+
+[node name="BottleMate19" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -2.16691, 8.7031, -1.24626 )
+
+[node name="BottleMate20" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -2.33356, 8.7031, -3.21597 )
