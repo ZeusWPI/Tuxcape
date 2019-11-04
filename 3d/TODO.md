@@ -1,9 +1,9 @@
 # Todo list for the (3D) graphics
 *List is not final and might change*
-*Currently working on: Fluid inside bottle*
+![Baking Fluid](https://img.shields.io/badge/Current-Baking%20Fluid-success)
  - [x] Tux
  - [x] Club-Mate bottle (50cl)
-   - [ ] Fluid inside bottle ![Status: Baking] (https://img.shields.io/badge/Progress-Baking-yellow)
+   - [ ] Fluid inside bottle
    - [x] Container for 4x5 Club-Mate bottles
  - [ ] Chairs (0/9 types)
  - [ ] Monitors (0/3 types)
