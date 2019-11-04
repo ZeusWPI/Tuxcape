@@ -1,0 +1,61 @@
+# Todo list for the (3D) graphics
+*List is not final and might change*
+ - [x] Tux
+ - [x] Club-Mate bottle (50cl)
+   - [ ] Fluid inside bottle
+   - [x] Container for 4x5 Club-Mate bottles
+ - [ ] Chairs (0/9 types)
+ - [ ] Monitors (0/3 types)
+ - [ ] Tables
+ - [ ] 'Koelkast'
+   - [ ] Contents/Drinks
+     - [x] Club-Mate
+     - [ ] Ice Tea
+     - [ ] Coca-Cola
+     - [ ] Energy drink
+     - [ ] Nalu
+   - [ ] Scanner
+   - [ ] Tablet/Laptop
+ - [ ] Phone
+ - [ ] Door
+   - [ ] Doorkeeper
+ - [ ] Wall/Bricks
+ - [ ] Posters (0/17 types)
+ - [ ] Whiteboard
+ - [ ] Cupboard w/ foodies
+ - [ ] Recycle bin
+ - [ ] Sofa
+   - [ ] Blankets
+ - [ ] Cables
+   - [ ] USB
+   - [ ] Ethernet
+   - [ ] USB adapter
+   - [ ] Video
+ - [ ] Ceiling
+ - [ ] Lighting
+   - [ ] Normal
+   - [ ] Christmas
+   - [ ] Lighting Switch
+ - [ ] Mugs
+ - [ ] Gaming corner
+   - [ ] Nintendo WII
+   - [ ] PS1
+   - [ ] PS2
+   - [ ] PS3
+   - [ ] XBOX
+   - [ ] Screen
+   - [ ] Controllers (0/5)
+
+# Todo list for the (3D) animations
+*List is not final and might change*
+ - [x] Tux
+   - [x] Walk/Run
+   - [x] Roll
+   - [x] Jump
+   - [x] Die
+ - [ ] Club-Mate bottle
+   - [ ] Pouring
+   - [ ] Smashing
+ - [ ] Door
+   - [ ] Closing
+   - [ ] Opening
