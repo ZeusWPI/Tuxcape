@@ -9,3 +9,15 @@ export_presets.cfg
 
 # Blender-specific ignores
 cache_fluid/
+*.blend[0-9]
+
+# Ignore GIMP files, temp/unused textures/renders
+*.xcf
+3d/BottleMat_Tex.png
+3d/bak_*.jpg
+3d/clubmate.jpg
+3d/UVSplit_Bottle.png
+3d/mate.gif
+3d/mate_diff.png
+3d/Bak_UV.png
+3d/mate-logo.jpg
