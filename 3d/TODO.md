@@ -1,6 +1,6 @@
 # Todo list for the (3D) graphics
 *List is not final and might change*
-![Baking Fluid](https://img.shields.io/badge/Current-Baking%20Fluid-success)
+![Making Monitors](https://img.shields.io/badge/Current-Monitors-success)
  - [x] Tux
  - [x] Club-Mate bottle (50cl)
    - [ ] Fluid inside bottle
