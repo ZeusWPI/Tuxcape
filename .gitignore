@@ -9,7 +9,7 @@ export_presets.cfg
 
 # Blender-specific ignores
 cache_fluid/
-*.blend[0-9]
+*.blend?
 
 # Ignore GIMP files, temp/unused textures/renders
 *.xcf
