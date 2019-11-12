@@ -6,7 +6,7 @@
    - [ ] Fluid inside bottle
    - [x] Container for 4x5 Club-Mate bottles
  - [ ] Chairs (0/9 types)
- - [ ] Monitors (0/3 types)
+ - [ ] Monitors (1/3 types)
  - [ ] Tables
  - [ ] 'Koelkast'
    - [ ] Contents/Drinks
@@ -46,6 +46,9 @@
    - [ ] XBOX
    - [ ] Screen
    - [ ] Controllers (0/5)
+ - [x] Stickers
+   - [x] Large Orange-on-black sticker
+   - [x] Small White-on-orange sticker
 
 # Todo list for the (3D) animations
 *List is not final and might change*
