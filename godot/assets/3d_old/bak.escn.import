@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bak.escn-6999a69186f3a572793bca101428123e.scn"
+path="res://.import/bak.escn-0714291f00b99e5e7dfb31cfcb0a9ec6.scn"
 
 [deps]
 
-source_file="res://assets/3d/bak.escn"
-dest_files=[ "res://.import/bak.escn-6999a69186f3a572793bca101428123e.scn" ]
+source_file="res://assets/3d_old/bak.escn"
+dest_files=[ "res://.import/bak.escn-0714291f00b99e5e7dfb31cfcb0a9ec6.scn" ]
 
 [params]
 

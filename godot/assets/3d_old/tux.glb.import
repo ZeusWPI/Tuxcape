@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bottle_mate.glb-ef49cf78fc0211ad8a88aff1377e5362.scn"
+path="res://.import/tux.glb-9baea6ba578bcdf031b13195ab029cbe.scn"
 
 [deps]
 
-source_file="res://assets/3d/bottle_mate.glb"
-dest_files=[ "res://.import/bottle_mate.glb-ef49cf78fc0211ad8a88aff1377e5362.scn" ]
+source_file="res://assets/3d_old/tux.glb"
+dest_files=[ "res://.import/tux.glb-9baea6ba578bcdf031b13195ab029cbe.scn" ]
 
 [params]
 
