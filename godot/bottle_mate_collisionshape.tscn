@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=2]
+
+[sub_resource type="CylinderShape" id=1]
+radius = 0.673846
+height = 4.90748
+
+[node name="CollisionShape" type="CollisionShape"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.01752, 2.40164, 0 )
+shape = SubResource( 1 )
